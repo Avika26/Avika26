@@ -7,7 +7,12 @@
 
 ---
 
-## 🛠 Skills (Learning Phase)
+## 🛠 Skills
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
 - **Programming:** Python (Basics, OOP, File Handling)  
 - **Database:** MySQL (Beginner)  
 - **Tools:** Git & GitHub, VS Code  
@@ -15,10 +20,10 @@
 
 ---
 
-## 📌 Projects
+## 📌 Projects (In Progress)
 - **To-Do List (Python)** – File handling practice project  
-- **Mini SQL Projects** – Queries, basic CRUD operations  
-- *(More projects coming soon as I progress in DA)*  
+- **Library Database (SQL)** – Mini project to showcase SQL skills *(coming soon)*  
+- *(More projects coming soon!)*  
 
 ---
 
@@ -32,7 +37,6 @@
 ## 📫 Connect with me
 - GitHub: [https://github.com/Avika26](https://github.com/Avika26)  
 - LinkedIn: [https://www.linkedin.com/in/avika-aswal-64796b322](https://www.linkedin.com/in/avika-aswal-64796b322)  
-
 
 ---
 
