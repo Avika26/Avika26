@@ -23,11 +23,12 @@
 ---
 
 ## 📌 Projects (In Progress)
-- **To-Do List (Python)** – File handling practice project  
-  ![Screenshot 1](screenshot1.png)  
-  ![Screenshot 2](screenshot2.png)  
+- **To-Do List (Python)** – **OOP & File Handling practice project**  
+  Demonstrates use of **classes, objects, constructors, and methods**, with **file operations** to store tasks persistently.  
 
-- **Library Database (SQL)** – Mini project to showcase SQL skills *(coming soon)*  
+- **Student Management System (SQL)** – **Mini project to showcase SQL skills**  
+  Includes **database design with multiple tables** (`students`, `courses`, `enrollments`, `marks`), **data insertion**, **JOINs**, **subqueries**, **aggregate functions**, **views**, **indexes**, and **stored procedures**. Fully **portfolio-ready** with sample queries and database structure.  
+
 - *(More projects coming soon!)*  
 
 ---
