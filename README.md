@@ -14,7 +14,6 @@
 ![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Avika26&layout=compact&theme=tokyonight)
 
 - **Programming:** Python (Basics, OOP, File Handling)  
 - **Database:** MySQL (Beginner)  
