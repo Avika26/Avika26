@@ -5,6 +5,8 @@
 💻 Building mini projects to strengthen my skills  
 🌱 Currently learning: Python OOP, File Handling, MySQL  
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Avika26.Avika26)
+
 ---
 
 ## 🛠 Skills
@@ -22,6 +24,9 @@
 
 ## 📌 Projects (In Progress)
 - **To-Do List (Python)** – File handling practice project  
+  ![Screenshot 1](screenshot1.png)  
+  ![Screenshot 2](screenshot2.png)  
+
 - **Library Database (SQL)** – Mini project to showcase SQL skills *(coming soon)*  
 - *(More projects coming soon!)*  
 
