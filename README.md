@@ -29,6 +29,10 @@
 - **Student Management System (SQL)** – **Mini project to showcase SQL skills**  
   Includes **database design with multiple tables** (`students`, `courses`, `enrollments`, `marks`), **data insertion**, **JOINs**, **subqueries**, **aggregate functions**, **views**, **indexes**, and **stored procedures**. Fully **portfolio-ready** with sample queries and database structure.  
 
+- **Quantum Physics Calculator (Frontend Exploration)** – **Learning project**  
+  Created as a **Semester 2 minor project** to explore **frontend web development** with HTML, CSS, and JavaScript.  
+  Served as a **hands-on learning experience** in building interactive web interfaces, while my main focus remains on **data analytics**.  
+
 - *(More projects coming soon!)*  
 
 ---
