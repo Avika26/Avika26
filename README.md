@@ -31,7 +31,8 @@
 
 ## 📫 Connect with me
 - GitHub: [https://github.com/Avika26](https://github.com/Avika26)  
-- LinkedIn: [https://www.linkedin.com/in/avika-aswal](www.linkedin.com/in/avika-aswal-64796b322)  
+- LinkedIn: [https://www.linkedin.com/in/avika-aswal-64796b322](https://www.linkedin.com/in/avika-aswal-64796b322)  
+
 
 ---
 
