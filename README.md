@@ -16,7 +16,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 - **Programming:** Python (Basics, OOP, File Handling)  
-- **Database:** MySQL (Beginner)  
+- **Database:** MySQL (Beginner, CRUD operations, Joins, Views)  
 - **Tools:** Git & GitHub, VS Code  
 - **Data Analytics Concepts:** Data cleaning, basic analysis, visualization (in progress)  
 
@@ -28,6 +28,11 @@
 
 - **Student Management System (SQL)** – **Mini project to showcase SQL skills**  
   Includes **database design with multiple tables** (`students`, `courses`, `enrollments`, `marks`), **data insertion**, **JOINs**, **subqueries**, **aggregate functions**, **views**, **indexes**, and **stored procedures**. Fully **portfolio-ready** with sample queries and database structure.  
+
+- **Student Management System (Python + MySQL)** – **Mini project to showcase Python-MySQL integration**  
+  Fully menu-driven **CRUD application** with a **`students` table**.  
+  Features include **Add, View, Search, Update, Delete students**, proper **database connection**, **SQL commands**, and **error handling**.  
+  **Screenshots included** for UI and database results, making it **portfolio-ready**. 
 
 - **Quantum Physics Calculator (Frontend Exploration)** – **Learning project**  
   Created as a **Semester 2 minor project** to explore **frontend web development** with HTML, CSS, and JavaScript.  
