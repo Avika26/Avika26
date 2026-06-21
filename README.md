@@ -113,8 +113,7 @@ Right now I'm exploring the full data world: wrangling messy datasets, writing S
 ### Todo CLI
 > Learning projects exploring Python OOP.
 
-- **Todo CLI** — classes, constructors, file I/O for persistent task storage
-- 
+- **Todo CLI** — classes, constructors, file I/O for persistent task storage 
 `Python OOP` `File Handling` 
 
 ---
