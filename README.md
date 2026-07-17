@@ -15,15 +15,17 @@
 
 ## About Me
 
-I'm a **4th semester B.Tech CSE student specializing in AI & Data Science**, on a mission to become a Data Analyst / Data Scientist — not just by studying, but by *actually building things*.
+I'm a **B.Tech CSE student specializing in AI & Data Science, entering my 3rd year**, on a mission to become a Data Analyst / Data Scientist — not just by studying, but by *actually building things*.
 
-Right now I'm exploring the full data world: wrangling messy datasets, writing SQL queries, building ML models from scratch, and connecting all the dots between statistics and real-world problems. Every project is a learning experiment.
+Right now I'm exploring the full data world: wrangling messy datasets, writing SQL queries, working with cloud data warehouses, building ML models from scratch, and connecting all the dots between statistics and real-world problems. Every project is a learning experiment.
 
 ```
- India · B.Tech CSE (AI & DS) · 4th Semester
+ India · B.Tech CSE (AI & DS) · 3rd Year
  Goal -> Data Analyst / Data Scientist
  Approach -> Learn by doing, document everything
 ```
+
+---
 
 ---
 
@@ -36,10 +38,12 @@ Right now I'm exploring the full data world: wrangling messy datasets, writing S
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat&logo=googlebigquery&logoColor=white)
 
 ### Tools & Environment
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
@@ -49,14 +53,28 @@ Right now I'm exploring the full data world: wrangling messy datasets, writing S
 | **Data Analysis** | Cleaning, EDA, preprocessing, visualization |
 | **Machine Learning** | Linear Regression, KNN, K-Means — *built from scratch with NumPy* |
 | **Database** | CRUD, JOINs, subqueries, views, indexes, stored procedures |
+| **Cloud Data Warehousing** | BigQuery — partitioning, clustering, window functions, nested data (STRUCT/ARRAY), cost optimization |
+| **Statistics** | Hypothesis testing, A/B testing, chi-square tests, p-values |
 | **Python** | OOP, file handling, data structures, MySQL integration |
-| **Visualization** | Matplotlib, Seaborn, interactive charts, choropleth maps |
+| **Visualization** | Power BI, Matplotlib, Seaborn, interactive charts, choropleth maps |
 
 ---
 
 ## Projects
 
-### Food Nutrition Analysis using ML — *4th Sem Major Project*
+### Retail Campaign Response Analysis — *BigQuery + Statistical Testing*
+> End-to-end analysis of ~6,900 customers to find out if spend level predicts marketing campaign response — using BigQuery, SQL, Python, and Power BI.
+
+- Segmented customers into Low/Medium/High spenders using quantile-based split (`NTILE`)
+- Found response rate increased from 2.53% → 8.80% → 16.87% across segments
+- Validated with a chi-square test in Python (p < 0.001) — confirmed the pattern was statistically significant, not random
+- Built visuals in Power BI, connected live to BigQuery
+
+`BigQuery` `SQL` `Python` `Power BI` `Chi-Square Test` `Customer Segmentation`
+
+---
+
+### Food Nutrition Analysis using ML — *Major Project*
 > Built three ML algorithms **from scratch** using only NumPy & Pandas. No sklearn. Just math and logic.
 
 - Dataset: USDA Nutrition Dataset (335 food items)
@@ -122,10 +140,10 @@ Right now I'm exploring the full data world: wrangling messy datasets, writing S
 
 ```python
 current_focus = [
-    "Python OOP & advanced file handling",
-    "MySQL — deeper SQL patterns",
+    "BigQuery — cloud data warehousing at scale",
+    "A/B testing & statistical significance",
+    "Power BI dashboarding",
     "Statistics for Data Science",
-    "Exploratory Data Analysis workflows",
     "Building a stronger project portfolio"
 ]
 
@@ -137,6 +155,7 @@ approach = "learn · build · reflect · repeat"
 
 ## 🎯 Goals
 
+- [ ] Complete an end-to-end analytics project using a cloud data warehouse (BigQuery)
 - [ ] Complete end-to-end data analytics projects across different domains
 - [ ] Go deeper into statistics and probability for ML
 - [ ] Land a data analytics internship
